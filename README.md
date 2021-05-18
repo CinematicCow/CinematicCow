@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm CinematicCow</h1>
 <h3 align="center">A Full Stack Developer</h3><br>
 
-- 🔭 I’m starting to working on **Order Now**
+- 🔭 I’m starting to working on **Walnut & Raisins**
 
 - 🌱 I’m currently learning **GraphQL, React-Native & Prisma**
 
