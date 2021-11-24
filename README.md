@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinematiccow&label=Profile%20views&color=c061cb&style=flat" alt="cinematiccow" /> </p>
 
-- 🌱 I’m currently learning **NestJS & GraphQL**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 Reach me on discord **C1N3MAT1C#0405**
 
