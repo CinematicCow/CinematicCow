@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm CinematicCow</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinematiccow&label=Profile%20views&color=c061cb&style=flat" alt="cinematiccow" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust & Go**
 
 - 📫 Reach me on discord **C1N3MAT1C#0405**
 
